@@ -182,5 +182,5 @@ Restaurant-SQL-Analysis/
 
 
 Author
-
+Owethu Gweba
 Developed as a SQL Data Analysis Portfolio Project demonstrating database querying, data exploration, business intelligence, and analytical problem-solving using Microsoft SQL Server.
